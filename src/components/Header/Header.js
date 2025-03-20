@@ -8,18 +8,19 @@ export default function Header() {
     <Navbar collapseOnSelect expand="lg" fixed="top" className="navbar">
       <Container>
         <Link className="link" to="/">
-          LGR
+          Makhpop
         </Link>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto"></Nav>
           <Nav>
-            <Link to="/" className="link">
-              Features
-            </Link>
-            <Link className="link" eventKey={2} to="/">
-              About us
-            </Link>
+                <a 
+                  className="link" 
+                  href="https://www.linkedin.com/company/makhpop/posts/?feedView=all" // Replace with your LinkedIn link
+                  target="_blank" 
+                  rel="noopener noreferrer">              
+                About us
+                </a>
           </Nav>
         </Navbar.Collapse>
       </Container>

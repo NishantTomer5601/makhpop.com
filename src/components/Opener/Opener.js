@@ -12,7 +12,7 @@ export default function Opener() {
           data-aos-delay="10"
           data-aos-duration="370"
         >
-          Lgr
+          Makhpop
         </Heading>
       </Container>
     </Main>

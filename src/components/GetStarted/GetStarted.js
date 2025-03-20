@@ -25,7 +25,7 @@ export default function GetStarted() {
             data-aos-delay="10"
             data-aos-duration="370"
           >
-            Collaborate with anyone you want, however you want.
+            Elevate Your Snack Game – Pure, Premium, Perfect.
           </h1>
           <p
             className="info"
@@ -34,20 +34,24 @@ export default function GetStarted() {
             data-aos-delay="10"
             data-aos-duration="370"
           >
-            LGR is an online creator marketplace that gives you the freedom to
-            find collaborations opportunities, grow your brand and learn from
-            others.
+            Makhpop is a premium Indian foxnut brand for the modern consumer.
           </p>
-          <button
-            className="getStartedBtn"
-            data-aos="slide-up"
-            data-aos-anchor-placement="bottom-bottom"
-            data-aos-delay="20"
-            data-aos-duration="1000"
-            easing="ease-in"
-          >
-            <strong>Get Started</strong> - It's free
-          </button>
+          <a
+  href="https://www.linkedin.com/company/makhpop/posts/?feedView=all" 
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <button
+    className="getStartedBtn"
+    data-aos="slide-up"
+    data-aos-anchor-placement="bottom-bottom"
+    data-aos-delay="20"
+    data-aos-duration="1000"
+    easing="ease-in"
+  >
+    <strong>Know about us</strong> - It's free
+  </button>
+</a>
         </div>
       </Container>
     </section>

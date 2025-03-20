@@ -13,7 +13,7 @@ export default function Footer() {
           data-aos-delay="10"
           data-aos-duration="320"
         >
-          Coming 2022
+          Coming Soon
         </h1>
         <button className="sendEmailBtn">
           Enter email to get notified first
