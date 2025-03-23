@@ -1,11 +1,10 @@
 import React from "react";
-import opener from "../../assets/opener.png";
 import styled from "styled-components";
 
 export default function Opener() {
   return (
     <Main id="opener">
-      <Container className="container">
+      <Container>
         <Heading
           data-aos="fade-up"
           data-aos-anchor-placement="bottom-bottom"
@@ -20,22 +19,21 @@ export default function Opener() {
 }
 
 const Main = styled.main`
-  background-image: url(${opener});
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-color: #5e7454; /* Set your preferred solid background color */
   height: 100vh;
-  color: white;
-`;
-const Container = styled.div`
   display: flex;
-  height: 100%;
   align-items: center;
   justify-content: center;
+  color: white;
+`;
+
+const Container = styled.div`
+  text-align: center;
 `;
 
 const Heading = styled.h1`
   font-size: clamp(8rem, 20vw, 14rem);
+  color: #e2d5a9;
   text-transform: uppercase;
   font-weight: normal;
 `;

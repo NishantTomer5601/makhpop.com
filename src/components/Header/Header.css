@@ -5,7 +5,8 @@
 }
 
 .navbar .link {
-  color: rgb(71, 71, 71);
+  color: #5e7454;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
   margin: 0 1rem;
   font-size: 1.5rem;
   text-decoration: none;

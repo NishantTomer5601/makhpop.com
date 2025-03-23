@@ -1,7 +1,6 @@
 import React from "react";
 import { Container } from "react-bootstrap";
 import "./Team.css";
-import member1 from "../../assets/member1.png";
 import member2 from "../../assets/member2.png";
 import member3 from "../../assets/member3.png";
 
@@ -14,19 +13,19 @@ export default function Team() {
           <div className="teamGrid">
             <div xs={4} className="member">
               <img
-                src={member1}
-                alt="Emma"
+                src={member3}
+                alt="Hrithik"
                 data-aos="fade-right"
                 data-aos-anchor-placement="center-bottom"
                 data-aos-delay="500"
                 data-aos-duration="1000"
               />
               <h3 className="memberInfo">
-                Emma Xia
+              Hrithik Bharti
                 <br />
-                CEO, WTB Influencer
+               Founder | Food Innovator 
                 <br />
-                bukiemma000@gmail.com
+                founder@makhpop.com
               </h3>
             </div>
             <div
@@ -36,32 +35,16 @@ export default function Team() {
               data-aos-delay="500"
               data-aos-duration="1000"
             >
-              <img src={member2} alt="Manesh" />
+              <img src={member2} alt="Abhigyan" />
               <h3 className="memberInfo">
-                Manesh Jhawar
+              Abhigyan Prakash 
                 <br />
-                CTO, Skydiver
+                Co-Founder | FMCG & Product Strategy Expert
                 <br />
-                manesh.jhawar@gmail.com
+               team@makhpop.com
               </h3>
             </div>
-            <div className="member">
-              <img
-                src={member3}
-                alt="Nick"
-                data-aos="fade-left"
-                data-aos-anchor-placement="center-bottom"
-                data-aos-delay="500"
-                data-aos-duration="1000"
-              />
-              <h3 className="memberInfo">
-                Nick Zhang
-                <br />
-                CTO, Nerdy kid
-                <br />
-                nzhang.jiahui@gmail.com
-              </h3>
-            </div>
+
           </div>
         </div>
       </Container>

@@ -13,11 +13,11 @@ export default function Footer() {
           data-aos-delay="10"
           data-aos-duration="320"
         >
-          Coming Soon
+          Coming Soon...
         </h1>
-        <button className="sendEmailBtn">
+        {/* <button className="sendEmailBtn">
           Enter email to get notified first
-        </button>
+        </button> */}
       </Container>
     </footer>
   );

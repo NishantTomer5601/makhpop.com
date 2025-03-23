@@ -19,11 +19,9 @@ export default function Importance() {
           data-aos-duration="370"
           data-aos-delay="10"
         >
-          <h2 className="first-left-title">Help Creators Be Proactive</h2>
+          <h2 className="first-left-title">Farm-Fresh Quality</h2>
           <p className="first-left-info">
-            Our marketplace platform gives creators the ability to pick and
-            choose among all collaboration opportunities available out there. So
-            no more sit and wait!
+          At Makhpop, we bring you farm-fresh makhanas, sourced directly from trusted farmers to ensure unmatched quality and freshness. We guarantee that every bite is packed with the natural goodness of hand-picked, premium foxnuts.
           </p>
         </div>
         <div
@@ -33,12 +31,12 @@ export default function Importance() {
           data-aos-delay="10"
           data-aos-duration="370"
         >
-          <h2 className="first-right-title">Build a Community</h2>
-          <div className="first-right-info">
-            Creators are able to share their personal experience and ask
-            questions through blog posts and Q&A panels. We want to help you
-            find friends and mentors :)
-          </div>
+
+<div className="first-right-info">
+  <h2 className="first-right-title">Bold Flavors, Modern Twist</h2>
+  We’ve taken this classic superfood and infused it with bold, modern flavors, making healthy snacking more exciting than ever. Whether you crave something spicy, tangy, or subtly sweet, our makhanas deliver a crunch you’ll love—without compromising on nutrition.
+          
+</div>
         </div>
         <div
           className="second-left"
@@ -47,11 +45,9 @@ export default function Importance() {
           data-aos-duration="370"
           data-aos-delay="10"
         >
-          <h2 className="second-left-title">Authenticity + Growth</h2>
+          <h2 className="second-left-title">Sustainably Made</h2>
           <p className="second-left-info">
-            Authenticity and growth can co-live! Each creator can see analytics
-            of personal growth and insights on how sponsored content is
-            affecting their audience.{" "}
+          With 100% natural ingredients and a commitment to sustainable processing, MakhPop ensures that what you snack on is not just good for you, but also for the planet. No artificial flavors, no preservatives—just pure, wholesome goodness in every pack!{" "}
           </p>
         </div>
       </Container>

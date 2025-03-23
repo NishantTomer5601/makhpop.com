@@ -30,13 +30,13 @@
   font-size: 1.6rem;
   border-radius: 1.5rem;
   border: none;
-  background-color: #ffb613;
+  background-color: #5e7454;
   transition: 0.3s ease all;
   margin-top: 2rem;
 }
 
 #getStarted .getStartedBtn:hover {
-  background-color: #f1a500;
+  background-color: #315637;
 }
 
 #getStarted .allText {
@@ -57,6 +57,7 @@
     opacity: 0.4;
     left: 0;
     display: none;
+
   }
   #getStarted .getStartedBtn {
     padding: 1rem 2.5rem;

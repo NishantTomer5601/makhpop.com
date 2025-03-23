@@ -7,7 +7,7 @@ export default function Header() {
   return (
     <Navbar collapseOnSelect expand="lg" fixed="top" className="navbar">
       <Container>
-        <Link className="link" to="/">
+        <Link className="link" to="/" onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}>
           Makhpop
         </Link>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />

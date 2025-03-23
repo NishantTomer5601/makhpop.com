@@ -24,7 +24,13 @@ export default function Mission() {
             data-aos-delay="500"
             data-aos-duration="1000"
           >
-            Makhpop is a premium Indian foxnut brand for the modern consumer.
+  <p>We’re on a mission to make makhana the ultimate healthy snack by:</p>
+  <ul>
+    <li>Supporting farmers with fair trade partnerships.</li>
+    <li>Blending tradition with innovation for better snacking.</li>
+    <li>Making nutrition-packed treats accessible and fun!</li>
+  </ul>
+
           </p>
         </div>
       </Container>
