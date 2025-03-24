@@ -34,6 +34,5 @@ const Container = styled.div`
 const Heading = styled.h1`
   font-size: clamp(8rem, 20vw, 14rem);
   color: #e2d5a9;
-  text-transform: uppercase;
   font-weight: normal;
 `;

@@ -23,14 +23,14 @@ export default function Mission() {
             data-aos-anchor-placement="center-bottom"
             data-aos-delay="500"
             data-aos-duration="1000"
-          >
-  <p>We’re on a mission to make makhana the ultimate healthy snack by:</p>
-  <ul>
-    <li>Supporting farmers with fair trade partnerships.</li>
-    <li>Blending tradition with innovation for better snacking.</li>
-    <li>Making nutrition-packed treats accessible and fun!</li>
-  </ul>
-
+          ><br/><br/>
+            We’re on a mission to make makhana the ultimate healthy snack by:<br/><br/> 
+              <ul>
+                <li>Supporting farmers with fair trade partnerships.</li>
+                <li>Blending tradition with innovation for better snacking.</li>
+                <li>Making nutrition-packed treats accessible and fun!</li>
+              </ul>   
+              
           </p>
         </div>
       </Container>
